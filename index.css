@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: monospace;
+  background-color: #001488;
+  color: white;
 }
 
 #toy-header {
